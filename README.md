@@ -1,1 +1,1 @@
-"#PulsingEffectAnimation" 
+### PulsingEffectAnimation
